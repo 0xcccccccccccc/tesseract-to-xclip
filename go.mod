@@ -1,5 +1,4 @@
-module tesseract-to-xclip
-
+module github.com/0xcccccccccccc/tesseract-to-xclip
 go 1.18
 
 require (
